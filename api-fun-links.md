@@ -24,8 +24,24 @@ Fun:
 
 
 Other Frameworks:
-     Ruby:
-         http://www.sinatrarb.com/
+    Ruby:
+        http://www.sinatrarb.com/
+        https://github.com/ruby-grape/grape
+    Python:
+        http://bottlepy.org/docs/dev/
+    PHP:
+        http://www.slimframework.com/
+    Node:
+        http://loopback.io/
+        http://restify.com/
+    Go:
+        http://dougblack.io/words/a-restful-micro-framework-in-go.html
+    Java:
+        https://jersey.java.net/
+        http://sparkjava.com/
+
+
+
 
 Fun API Reading:
     http://apievangelist.com/
