@@ -1,5 +1,6 @@
 README
 
-I am going to write stuff here and add things later.
-If you are looking through the history of this repo...
-YAY you are a good detective. like Batman.
+This repo is the slides and such from a meet up about API creation.
+
+YouTube video: https://www.youtube.com/watch?v=kcjpj9fXrDM
+
